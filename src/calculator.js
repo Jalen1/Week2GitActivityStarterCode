@@ -10,7 +10,7 @@ var Calculator = /** @class */ (function () {
     Calculator.prototype.sub = function (x, y) {
         return x - y;
     };
-    Calculator.prototype.mult = function (x, y) {
+    Calculator.prototype.mul = function (x, y) {
         return x * y;
     };
     return Calculator;
