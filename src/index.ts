@@ -9,6 +9,4 @@ const result_sub = calc.sub(3, 1);
 const result_mul = calc.mul(5, 5);
 console.log(`result_add = ${result_add}\nresult_sub = ${result_sub}\nresult_mul = ${result_mul}`);
 =======
-const result_sub = calc.sub(3,1);
->>>>>>> e55db9e8ad4d902b124fd759bb284ddf6b965312
 
