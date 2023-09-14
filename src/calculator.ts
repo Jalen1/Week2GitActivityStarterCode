@@ -5,11 +5,14 @@ export class Calculator {
   public divide(x : number , y : number) : number {
     return x / y;
   }
-  
+
   public sub(x: number, y: number) : number {
     return x - y;
   }
   public mul(x: number, y: number) : number {
     return x * y;
+  }
+  public hello() : void {
+    console.log("hello");
   }
 };
